@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi Mohammad Hatta</title><desc id="desc">Potret ilustratif Mohammad Hatta berkacamata, berpeci, dan berjas.</desc>
+  <defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#dce4df"/><stop offset="1" stop-color="#aab7a7"/></linearGradient><linearGradient id="coat" x2="1" y2="1"><stop stop-color="#3a443e"/><stop offset="1" stop-color="#202a27"/></linearGradient><linearGradient id="face" x2="1" y2="1"><stop stop-color="#d9a77f"/><stop offset="1" stop-color="#ae7356"/></linearGradient></defs>
+  <rect width="800" height="520" fill="url(#wall)"/><path d="M0 365h800v155H0z" fill="#758171"/><path d="M80 60h640v410H80z" fill="none" stroke="#ede4d1" stroke-width="3" opacity=".8"/>
+  <path d="M215 520c15-111 73-163 185-163s170 52 185 163" fill="url(#coat)"/><path d="M347 376l53 70 53-70-17-35h-72z" fill="#eee5d3"/><path d="M390 415h20l17 105h-54z" fill="#7b4036"/>
+  <path d="M338 195c0-58 24-99 62-99s62 41 62 99v78c0 51-29 84-62 84s-62-33-62-84z" fill="url(#face)"/><path d="M328 125q72-47 144 0l-7 40q-65-22-130 0z" fill="#202522"/><path d="M318 99q82-31 164 0l-8 49q-74-22-148 0z" fill="#171c1b"/><path d="M321 137h156" stroke="#444b43" stroke-width="5"/>
+  <path d="M344 218q18-10 36 0M420 218q18-10 36 0" fill="none" stroke="#514034" stroke-width="5"/><ellipse cx="364" cy="230" rx="5" ry="7" fill="#24201d"/><ellipse cx="436" cy="230" rx="5" ry="7" fill="#24201d"/>
+  <rect x="337" y="211" width="58" height="38" rx="15" fill="none" stroke="#332e28" stroke-width="6"/><rect x="405" y="211" width="58" height="38" rx="15" fill="none" stroke="#332e28" stroke-width="6"/><path d="M395 226h10M399 232l-8 35 13 3M371 297q29 15 58 0" fill="none" stroke="#784d3a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M267 414l70-38 31 35-54 109h-69zM533 414l-70-38-31 35 54 109h69z" fill="#424d46"/><path d="M283 428l34 12m200-12-34 12" stroke="#d7c6a5" stroke-width="3"/><text x="400" y="492" fill="#f0eadc" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="5">BAPAK KOPERASI</text>
+</svg>

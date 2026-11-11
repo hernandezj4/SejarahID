@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi Soekarno</title><desc id="desc">Potret ilustratif Soekarno dengan peci hitam dan jas, berlatar merah putih.</desc>
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#f6e8ca"/><stop offset="1" stop-color="#d9b985"/></linearGradient>
+    <linearGradient id="suit" x2="1" y2="1"><stop stop-color="#263346"/><stop offset="1" stop-color="#101923"/></linearGradient>
+    <linearGradient id="skin" x2="1" y2="1"><stop stop-color="#d99a6b"/><stop offset="1" stop-color="#a95e40"/></linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#paper)"/><path fill="#a8382d" opacity=".92" d="M0 0h800v182H0z"/><path fill="#f7edda" d="M0 182h800v185H0z"/>
+  <path d="M78 52h644v416H78z" fill="none" stroke="#8f673e" stroke-width="3" opacity=".65"/><path d="M98 72h604v376H98z" fill="none" stroke="#8f673e" stroke-width="1" opacity=".45"/>
+  <path d="M218 520c10-102 75-158 182-158s172 56 182 158" fill="url(#suit)"/>
+  <path d="M344 374l56 72 56-72-20-39h-72z" fill="#f4ead8"/><path d="M390 411h20l18 109h-56z" fill="#a8382d"/>
+  <path d="M334 198c0-63 28-105 66-105s66 42 66 105v78c0 52-31 86-66 86s-66-34-66-86z" fill="url(#skin)"/>
+  <path d="M329 129q71-52 142 0l-7 32q-64-23-128 0z" fill="#111820"/><path d="M322 105q78-29 156 0l-7 43q-71-20-142 0z" fill="#151b20"/><path d="M323 141h154" stroke="#394149" stroke-width="5"/>
+  <path d="M345 215q18-12 36 0M419 215q18-12 36 0" fill="none" stroke="#442c25" stroke-width="6" stroke-linecap="round"/><ellipse cx="363" cy="229" rx="5" ry="7" fill="#24201d"/><ellipse cx="437" cy="229" rx="5" ry="7" fill="#24201d"/>
+  <path d="M399 225l-9 43 14 4M370 295q30 18 60 0" fill="none" stroke="#78412f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M268 416l69-42 32 34-56 112h-66zM532 416l-69-42-32 34 56 112h66z" fill="#303d4e"/><path d="M330 381l70 65 70-65" fill="none" stroke="#b6a384" stroke-width="3"/>
+  <text x="400" y="492" fill="#f2e4ca" text-anchor="middle" font-family="Georgia,serif" font-size="15" letter-spacing="5">PROKLAMATOR • 1945</text>
+</svg>
